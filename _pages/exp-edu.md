@@ -1,4 +1,5 @@
 ---
+layout: portfolio
 title: "Experience and Education"
 permlink: /exp-edu/
 excerpt: "1 year work experience as data scientist and a master in Data Science."
