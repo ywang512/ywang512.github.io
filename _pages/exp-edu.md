@@ -10,11 +10,11 @@ sidebar:
     image_alt: "logo"
     text: "MS in Data Science @ Duke University"
 gallery:
-  - url: /assets/images/exp-edu-gallery-image-1.jpg
-    image_path: assets/images/exp-edu-gallery-image-1-th.jpg
+  - url: /assets/images/exp-edu-gallery-image-1.jpeg
+    image_path: assets/images/exp-edu-gallery-image-1-th.jpeg
     alt: "placeholder image 1"
-  - url: /assets/images/exp-edu-gallery-image-2.jpg
-    image_path: assets/images/exp-edu-gallery-image-2-th.jpg
+  - url: /assets/images/exp-edu-gallery-image-2.jpeg
+    image_path: assets/images/exp-edu-gallery-image-2-th.jpeg
     alt: "placeholder image 2"
 ---
 
