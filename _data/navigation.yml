@@ -4,9 +4,9 @@ main:
     url: https://ywang512.github.io/
   - title: "Projects"
     url: https://ywang512.github.io/year-archive/
-  - title: "Experience and Education"
-    url: https://ywang512.github.io/exp-edu/
   - title: "About"
     url: https://ywang512.github.io/about/
+  - title: "Resume"
+    url: https://ywang512.github.io/assets/files/yifei_wang_resume.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
