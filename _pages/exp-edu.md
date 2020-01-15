@@ -1,7 +1,7 @@
 ---
-title: "Experience and Education"
-permalink: /exp-edu/
-layout: posts
+title: "About Me"
+permalink: /about/
+layout: portfolio
 excerpt: "1 year work experience as data scientist and a master in Data Science."
 header:
   image: /assets/images/exp-edu-header.jpg
