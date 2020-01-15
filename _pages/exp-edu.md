@@ -1,6 +1,6 @@
 ---
-permlink: /exp-edu/
 title: "Experience and Education"
+permlink: /exp-edu/
 excerpt: "1 year work experience as data scientist and a master in Data Science."
 header:
   image: /assets/images/exp-edu-header.jpg
