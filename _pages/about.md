@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
+layout: single
 excerpt: "1 year work experience as data scientist and a master in Data Science."
 header:
   image: /assets/images/exp-edu-header.jpg
