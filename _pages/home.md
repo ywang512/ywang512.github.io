@@ -9,6 +9,6 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Website is still under construction :)<br />
-  <small><a href="https://ywang512.github.io/posts/">Feel free to check my posts first</a></small>
+  <small><a href="https://ywang512.github.io/year-archive/">Feel free to check my recent projects first</a></small>
    
 ---
