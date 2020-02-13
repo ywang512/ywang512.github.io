@@ -7,6 +7,7 @@ author_profile: true
 header:
   image: /assets/images/exp-edu-header.jpg
   teaser: assets/images/exp-edu-header-th.jpg
+  caption: "Photo credit: [@DukeU](https://twitter.com/DukeU/status/1100063345045094401)"
 gallery:
   - url: /assets/images/exp-edu-gallery-image-1.jpeg
     image_path: assets/images/exp-edu-gallery-image-1-th.jpeg
