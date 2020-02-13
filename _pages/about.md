@@ -5,8 +5,7 @@ layout: single
 excerpt: "Master in Data Science at Duke and data scientist in progress."
 author_profile: true
 header:
-  image: /assets/images/exp-edu-header.jpg
-  teaser: assets/images/exp-edu-header-th.jpg
+  overlay_image: /assets/images/exp-edu-header.jpg
   caption: "Photo credit: [@DukeU](https://twitter.com/DukeU/status/1100063345045094401)"
 gallery:
   - url: /assets/images/exp-edu-gallery-image-1.jpeg
