@@ -41,7 +41,5 @@ feature_1:
 
 {% include feature_row id="feature_intro" type="center" %}
 
-{% include feature_row id="feature_1"%}
-
 
 [vert]: # (&#124;)
